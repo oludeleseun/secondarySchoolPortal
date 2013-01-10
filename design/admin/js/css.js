@@ -1,0 +1,1 @@
+document.write("<link rel=\"stylesheet\" type=\"text/css\" href=\"css/js.css\" media=\"screen\" />");

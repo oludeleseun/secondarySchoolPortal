@@ -1,0 +1,357 @@
+@charset "utf-8";
+.top_banner {
+	background-image: url(../images/topbanner2.jpg);
+	background-repeat: repeat-y;
+}
+.mtnbanner {
+	padding-right: 120px;
+}
+.logintable {
+	background-color: #5EC9FD;
+	background-repeat: no-repeat;
+	width: 270px;
+}
+.login_bottom {
+	background-image: url(../images/login_bottom.jpg);
+	background-repeat: no-repeat;
+}
+.login_top_image {
+	background-image: url(../images/login_top.jpg);
+	background-repeat: no-repeat;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Lucida;
+	font-size: 22px;
+	color: #FFFFFF;
+	padding-top: 4px;
+	padding-left: 9px;
+	height: 55px;
+}
+.logintext {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #FFFFFF;
+	padding-left: 9px;
+	text-decoration:none;
+}
+.logintext a:link{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #FFFFFF;
+	padding-left: 9px;
+	text-decoration:none;
+}
+.logintext a:visited{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #FFFFFF;
+	padding-left: 9px;
+	text-decoration:none;
+}
+.logintext a:hover{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #2378A1;
+	padding-left: 9px;
+	text-decoration:underline;
+}
+.loginbutton_table {
+	padding-top: 10px;
+	padding-right: 8px;
+}
+.topbannertable_text {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Lucida;
+	font-size: 16px;
+	color: #FFFFFF;
+	padding-bottom: 20px;
+}
+.topbannertable_text a:link{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Lucida;
+	font-size: 16px;
+	color: #FFFFFF;
+	font-weight: bold;
+	text-decoration:none;
+}
+.menutextsendsms {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Lucida;
+	font-size: 14px;
+	color: #FFF;
+	margin-top: 16px;
+}
+.menutext {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Lucida;
+	font-size: 12px;
+	color: #646464;
+	margin-top: 16px;
+}
+.menutext a:link{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Lucida;
+	font-size: 12px;
+	color: #646464;
+	text-decoration:none;
+}
+.menutext a:visited{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Lucida;
+	font-size: 12px;
+	color: #646464;
+	text-decoration:none;
+}
+.menutext a:hover{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Lucida;
+	font-size: 12px;
+	color: #646464;
+	text-decoration:underline;
+}
+
+.topbannertable_text a:visited{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Lucida;
+	font-size: 16px;
+	color: #FFFFFF;
+	font-weight: bold;
+	text-decoration:none;
+}
+.topbannertable_text a:hover{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Lucida;
+	font-size: 16px;
+	color: #2378A1;
+	font-weight: bold;
+	text-decoration:underline;
+}
+
+
+.loginArea {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #FFFFFF;
+	padding-top: 32px;
+	padding-left: 9px;
+}
+
+
+
+.topbanner_strip {
+	background-image: url(../images/topbanner_strip2.jpg);
+	background-repeat: repeat-x;
+}
+
+.footer {
+	background-image: url(../images/reloadng%20_r2_c2.jpg);
+	width: 960px;
+	background-repeat: no-repeat;
+	padding-top: 17px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Lucida;
+	font-size: 16px;
+	color: #44C1FB;
+}
+
+.innerbanner_header {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Lucida;
+	font-size: 16px;
+	font-weight: normal;
+	color: #0E6F9C;
+	padding-top: 13px;
+	padding-left: 13px;
+}
+.regtext {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Lucida;
+	font-size: 14px;
+	color: #A7CDE2;
+	padding-left: 25px;
+}
+.quicktext {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Lucida;
+	font-size: 14px;
+	color: #A7CDE2;
+	padding-left: 11px;
+}
+
+.innertextbox {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Lucida;
+	filter: alpha (opacity=50);
+	moz-opacity: .50;
+	opacity: .50;
+	border: 1px solid #B6E4FB;
+}
+
+
+.payiconsborder {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #5EC9FD;
+	padding-top: 4px;
+	padding-bottom: 6px;
+}
+.payiconsborderinner {
+	padding-top: 4px;
+	padding-bottom: 6px;
+}
+.innerbanner {
+	background-image: url(../images/innerbanner.jpg);
+	background-repeat: no-repeat;
+	height: 280px;
+}
+.innerheader {
+	background-image: url(../images/innerheaders.jpg);
+	background-repeat: no-repeat;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Lucida;
+	font-size: 18px;
+	color: #FFFFFF;
+	padding-left: 9px;
+}
+.inner_cart_banner {
+	background-image: url(../images/inner_cart_banner.jpg);
+	background-repeat: repeat-y;
+}
+.inner_cart_bannerstrip {
+	background-image: url(../images/inner_cart_bannerstrip.jpg);
+	background-repeat: repeat-y;
+}
+.mediumText {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #856502;
+	font-weight:bold;
+}
+.mediumText a:link{
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #856502;
+	text-decoration:none;
+	font-weight:bold;
+}
+.mediumText a:visited{
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #856502;
+	font-weight:bold;
+	text-decoration:none;
+}
+.mediumText a:hover{
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #856502;
+	font-weight:bold;
+	text-decoration:underline;
+}
+.errorTxt{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FF0000;
+	text-decoration: none;
+}
+.cartButton {
+	background-color: #F9AC12;
+	height: 20px;
+	width: 60px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Lucida;
+	font-size: 11px;
+	color: #FFFFFF;
+	font-weight: bold;
+	border: 1px solid #F0C102;
+}
+.errorTxt2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FF0000;
+}
+.mediumText2 {
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif
+	font-size: 10px;
+	color: #666666;
+	text-decoration:none;
+}
+.mediumText2 a:link{
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #666666;
+	text-decoration:none;
+	font-weight:bold;
+}
+.mediumText2 a:visited{
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #666666;
+	font-weight:bold;
+	text-decoration:none;
+}
+.mediumText2 a:hover{
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #666666;
+	font-weight:bold;
+	text-decoration:underline;
+}
+.formatDivTbl {background-color: #ACACAC; }
+.formatDivTbl tr {background-color:#fff;}
+.menuText3 {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+	font-weight: bold;
+	text-decoration:none;
+}
+.menuText3 a:link{
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+	font-weight: bold;
+	text-decoration:none;
+}
+.menuText3 a:visited{
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+	font-weight: bold;
+	text-decoration:none;
+}
+.menuText3 a:hover{
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #2378A1;
+	font-weight: bold;
+	text-decoration:underline;
+}
+.leftdotted {
+	border-left-width: 1px;
+	border-left-style: dotted;
+	border-left-color: #666666;
+}
+.bottomDotted {
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #E6E6E6;
+}
+.lightBlueBack {
+	background-color: #D4D4D4;
+}.inner_background {
+	background-image: url(../images/mtn_inner_background.jpg);
+	background-repeat: repeat-y;
+	background-color: #FFCC01;
+}
+.completeBorder {
+	border: 1px solid #CCCCCC;;
+}
+.error_div {
+	background-color:#FFEAEA;
+	width: inherit;
+	border: 1px #990000;
+}
+.textfield{
+	border:thin;
+	border-spacing:inherit;
+	border-color:#DFE6FD;
+	/*border-style:groove;*/
+	padding-top:0;
+}
+.innertextbox {
+	 font-family: "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Lucida;
+	 /*filter: alpha (opacity=50);
+	 moz-opacity: .50;
+	 opacity: .50;*/
+	 border: 1.5px solid #999999;
+}
+.buttonstyle1 {
+	 font-family: "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Lucida;
+	 /*filter: alpha (opacity=50);
+	 moz-opacity: .50;
+	 opacity: .50;*/
+	 border: 1px solid #999999;
+}

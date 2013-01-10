@@ -1,0 +1,34 @@
+#wrapper {
+	height: 100%;
+}
+
+#head, #content {
+	height: 1px;
+}
+
+
+body {
+	behavior: url(css/csshover.htc);
+}
+
+.title_wrapper, .scb {
+	zoom: 1;
+}
+
+.title_wrapper_left, .title_wrapper_right, .scb_left, .scb_right {
+	behavior: url(css/iepngfix.htc);
+}
+
+.sct_left .sct_right {
+	height: 30px;
+}
+
+.system_messages li {
+	height: 1px;
+	
+}
+
+.ico, .button_ico  {
+	behavior: url(css/iepngfix.htc);
+}
+
