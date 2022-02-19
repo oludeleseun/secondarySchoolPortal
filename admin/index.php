@@ -239,7 +239,7 @@ class cdefault {
 	function Message_Showing(&$msg) {
 
 		// Example:
-		//$msg = "your new message";
+		//$msg = "your new message"; g
 
 	}
 }
